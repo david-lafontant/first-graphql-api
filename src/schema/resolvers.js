@@ -2,10 +2,20 @@ const fs = require('fs');
 const _ = require('lodash');
 
 let usersData = null;
-fs.readFile('src/data/users.json', 'utf-8', (err, data) => {
-  if (err) { throw new Error(err.message); }
-  usersData = JSON.parse(data);
-});
+let moviesData = null;
+if (!usersData) {
+  fs.readFile('src/data/users.json', 'utf-8', (err, data) => {
+    if (err) { throw new Error(err.message); }
+    usersData = JSON.parse(data);
+  });
+}
+
+if (!moviesData) {
+  fs.readFile('src/data/movies.json', 'utf-8', (err, data) => {
+    if (err) { throw new Error(err.message); }
+    moviesData = JSON.parse(data);
+  });
+}
 
 const resolvers = {
   Query: {
@@ -18,8 +28,8 @@ const resolvers = {
       return user;
     },
     movies() {
-      reti
-    }
+      return moviesData;
+    },
   },
 };
 
