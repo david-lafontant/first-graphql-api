@@ -9,6 +9,7 @@ const typeDefs = gql`
     age: Int
     isMarried: Boolean
     nationality: String!
+    friends: [User]
   }
 
 
