@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "age": 30,
+    "isMarried": true,
+    "nationality": "United States"
+  },
+  {
+    "id": 2,
+    "name": "Alice Smith",
+    "email": "alice.smith@example.com",
+    "age": 25,
+    "isMarried": false,
+    "nationality": "Canada"
+  },
+  {
+    "id": 3,
+    "name": "Mohammed Khan",
+    "email": "mohammed.khan@example.com",
+    "age": 35,
+    "isMarried": true,
+    "nationality": "Pakistan"
+  },
+  {
+    "id": 4,
+    "name": "Maria Garcia",
+    "email": "maria.garcia@example.com",
+    "age": 28,
+    "isMarried": false,
+    "nationality": "Spain"
+  },
+  {
+    "id": 5,
+    "name": "Liu Wei",
+    "email": "liu.wei@example.com",
+    "age": 32,
+    "isMarried": true,
+    "nationality": "China"
+  },
+  {
+    "id": 6,
+    "name": "Anna Kowalski",
+    "email": "anna.kowalski@example.com",
+    "age": 29,
+    "isMarried": false,
+    "nationality": "Poland"
+  },
+  {
+    "id": 7,
+    "name": "Michael Johnson",
+    "email": "michael.johnson@example.com",
+    "age": 40,
+    "isMarried": true,
+    "nationality": "United Kingdom"
+  },
+  {
+    "id": 8,
+    "name": "Sophia Lee",
+    "email": "sophia.lee@example.com",
+    "age": 27,
+    "isMarried": false,
+    "nationality": "South Korea"
+  },
+  {
+    "id": 9,
+    "name": "Ahmed Hassan",
+    "email": "ahmed.hassan@example.com",
+    "age": 33,
+    "isMarried": false,
+    "nationality": "South Korea"
+  },
+  {
+    "id": 10,
+    "name": "Ahmed Miktoum",
+    "email": "ahmed.miktoum@example.com",
+    "age": 38,
+    "isMarried": false,
+    "nationality": "Egypt"
+  },
+  {
+    "id": 11,
+    "name": "Kemal Getzul",
+    "email": "kemal.getzul@example.com",
+    "age": 23,
+    "isMarried": false,
+    "nationality": "Turkiye"
+  },
+  {
+    "id": 12,
+    "name": "Sophie Baumann",
+    "email": "sophie.baumann@example.com",
+    "age": 43,
+    "isMarried": true,
+    "nationality": "Germany"
+  },
+  {
+    "id": 13,
+    "name": "Luc Pierre",
+    "email": "luc.pierrr@example.com",
+    "age": 57,
+    "isMarried": false,
+    "nationality": "Haiti"
+  },
+  {
+    "id": 14,
+    "name": "Brenda Henrique",
+    "email": "Brenda.henrique@example.com",
+    "age": 44,
+    "isMarried": true,
+    "nationality": "Panama"
+  }
+]
