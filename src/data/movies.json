@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "name": "Inception",
+    "publishedYear": 2010,
+    "isInTheater": false
+  },
+  {
+    "id": 2,
+    "name": "The Dark Knight",
+    "publishedYear": 2008,
+    "isInTheater": false
+  },
+  {
+    "id": 3,
+    "name": "Interstellar",
+    "publishedYear": 2014,
+    "isInTheater": false
+  },
+  {
+    "id": 4,
+    "name": "The Shawshank Redemption",
+    "publishedYear": 1994,
+    "isInTheater": false
+  },
+  {
+    "id": 5,
+    "name": "Fight Club",
+    "publishedYear": 1999,
+    "isInTheater": false
+  },
+  {
+    "id": 6,
+    "name": "Pulp Fiction",
+    "publishedYear": 1994,
+    "isInTheater": false
+  },
+  {
+    "id": 7,
+    "name": "The Matrix",
+    "publishedYear": 1999,
+    "isInTheater": false
+  },
+  {
+    "id": 8,
+    "name": "Forrest Gump",
+    "publishedYear": 1994,
+    "isInTheater": false
+  },
+  {
+    "id": 9,
+    "name": "The Lord of the Rings: The Return of the King",
+    "publishedYear": 2003,
+    "isInTheater": true
+  },
+  {
+    "id": 10,
+    "name": "The Godfather",
+    "publishedYear": 1972,
+    "isInTheater": true
+  },
+  {
+    "id": 11,
+    "name": "The Godfather: Part II",
+    "publishedYear": 1974,
+    "isInTheater": true
+  },
+  {
+    "id": 12,
+    "name": "The Godfather: Part III",
+    "publishedYear": 1990,
+    "isInTheater": true
+  },
+  {
+    "id": 13,
+    "name": "Schindler's List",
+    "publishedYear": 1993,
+    "isInTheater": true
+  },
+  {
+    "id": 14,
+    "name": "The Lord of the Rings: The Fellowship of the Ring",
+    "publishedYear": 2001,
+    "isInTheater": true
+  },
+  {
+    "id": 15,
+    "name": "The Lord of the Rings: The Two Towers",
+    "publishedYear": 2002,
+    "isInTheater": true
+  },
+  {
+    "id": 16,
+    "name": "The Silence of the Lambs",
+    "publishedYear": 1991,
+    "isInTheater": false
+  },
+  {
+    "id": 17,
+    "name": "The Green Mile",
+    "publishedYear": 1999,
+    "isInTheater": false
+  },
+  {
+    "id": 18,
+    "name": "Goodfellas",
+    "publishedYear": 1990,
+    "isInTheater": true
+  },
+  {
+    "id": 19,
+    "name": "Se7en",
+    "publishedYear": 1995,
+    "isInTheater": false
+  },
+  {
+    "id": 20,
+    "name": "The Usual Suspects",
+    "publishedYear": 1995,
+    "isInTheater": false
+  },
+  {
+    "id": 21,
+    "name": "The Lion King",
+    "publishedYear": 1994,
+    "isInTheater": false
+  },
+  {
+    "id": 22,
+    "name": "Gladiator",
+    "publishedYear": 2000,
+    "isInTheater": false
+  },
+  {
+    "id": 23,
+    "name": "Braveheart",
+    "publishedYear": 1995,
+    "isInTheater": true
+  },
+  {
+    "id": 24,
+    "name": "Titanic",
+    "publishedYear": 1997,
+    "isInTheater": false
+  },
+  {
+    "id": 25,
+    "name": "Saving Private Ryan",
+    "publishedYear": 1998,
+    "isInTheater": true
+  }
+]
