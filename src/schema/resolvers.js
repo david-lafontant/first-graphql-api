@@ -30,6 +30,16 @@ const resolvers = {
     movies() {
       return moviesData;
     },
+    movie(parent, args) {
+      const { id } = args;
+      const movie = _.find(moviesData, { id: Number(id) });
+      return movie;
+    },
+    movieByName(parent, args) {
+      const { name } = args;
+      const moviebyname = _.find(moviesData, { name });
+      return moviebyname;
+    },
   },
 };
 
