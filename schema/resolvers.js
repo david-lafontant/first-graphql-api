@@ -1,5 +1,6 @@
 // const data = require('../data.json');
 const fs = require('fs');
+const _ = require('lodash');
 
 let jsonData = null;
 fs.readFile('data.json', 'utf-8', (err, data) => {
@@ -11,6 +12,11 @@ const resolvers = {
   Query: {
     users() {
       return jsonData;
+    },
+    user(parent, args) {
+      const { id } = args;
+      const user = _.find(jsonData, { id: Number(id) });
+      return user;
     },
   },
 };
