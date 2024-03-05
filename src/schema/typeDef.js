@@ -24,6 +24,8 @@ const typeDefs = gql`
     users: [User!]!
     user(id: ID!): User!
     movies: [Movie!]!
+    movie(id: ID): Movie!
+    movieByName(name: String!): Movie!
   }
 
 `;
