@@ -12,18 +12,18 @@ const typeDefs = gql`
     friends: [User]
   }
 
-  # type Movie{
-  #   id: ID!
-  #   name: String!
-  #   publishedYear: Int!
-  #   isInTheater: Boolean
-  # }
+  type Movie{
+    id: ID!
+    name: String!
+    publishedYear: Int!
+    isInTheater: Boolean
+  }
 
 
   type Query {
     users: [User!]!
     user(id: ID!): User!
-    # movies: [Movie!]!
+    movies: [Movie!]!
   }
 
 `;
