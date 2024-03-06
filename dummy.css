@@ -1,0 +1,4 @@
+/* dummy css file added to fix linter error  */
+*{
+  box-sizing: border-box;
+}
