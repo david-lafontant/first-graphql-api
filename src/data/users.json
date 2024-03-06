@@ -1,0 +1,320 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "age": 30,
+    "isMarried": true,
+    "nationality": "United States",
+    "friends": [
+      {
+        "id": 2,
+        "name": "Alice Smith",
+        "email": "alice.smith@example.com",
+        "age": 25,
+        "isMarried": false,
+        "nationality": "Canada"
+      },
+      {
+        "id": 5,
+        "name": "Liu Wei",
+        "email": "liu.wei@example.com",
+        "age": 32,
+        "isMarried": true,
+        "nationality": "China"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Alice Smith",
+    "email": "alice.smith@example.com",
+    "age": 25,
+    "isMarried": false,
+    "nationality": "Canada"
+  },
+  {
+    "id": 3,
+    "name": "Mohammed Khan",
+    "email": "mohammed.khan@example.com",
+    "age": 35,
+    "isMarried": true,
+    "nationality": "Pakistan"
+  },
+  {
+    "id": 4,
+    "name": "Maria Garcia",
+    "email": "maria.garcia@example.com",
+    "age": 28,
+    "isMarried": false,
+    "nationality": "Spain"
+  },
+  {
+    "id": 5,
+    "name": "Liu Wei",
+    "email": "liu.wei@example.com",
+    "age": 32,
+    "isMarried": true,
+    "nationality": "China",
+    "friends": [
+      {
+        "id": 11,
+        "name": "Kemal Getzul",
+        "email": "kemal.getzul@example.com",
+        "age": 23,
+        "isMarried": false,
+        "nationality": "Turkiye"
+      },
+      {
+        "id": 12,
+        "name": "Sophie Baumann",
+        "email": "sophie.baumann@example.com",
+        "age": 43,
+        "isMarried": true,
+        "nationality": "Germany"
+      },
+      {
+        "id": 13,
+        "name": "Luc Pierre",
+        "email": "luc.pierrr@example.com",
+        "age": 57,
+        "isMarried": false,
+        "nationality": "Haiti"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Anna Kowalski",
+    "email": "anna.kowalski@example.com",
+    "age": 29,
+    "isMarried": false,
+    "nationality": "Poland"
+  },
+  {
+    "id": 7,
+    "name": "Michael Johnson",
+    "email": "michael.johnson@example.com",
+    "age": 40,
+    "isMarried": true,
+    "nationality": "United Kingdom",
+    "friends": [
+      {
+        "id": 8,
+        "name": "Sophia Lee",
+        "email": "sophia.lee@example.com",
+        "age": 27,
+        "isMarried": false,
+        "nationality": "South Korea"
+      },
+      {
+        "id": 9,
+        "name": "Ahmed Hassan",
+        "email": "ahmed.hassan@example.com",
+        "age": 33,
+        "isMarried": false,
+        "nationality": "South Korea"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Sophia Lee",
+    "email": "sophia.lee@example.com",
+    "age": 27,
+    "isMarried": false,
+    "nationality": "South Korea"
+  },
+  {
+    "id": 9,
+    "name": "Ahmed Hassan",
+    "email": "ahmed.hassan@example.com",
+    "age": 33,
+    "isMarried": false,
+    "nationality": "South Korea"
+  },
+  {
+    "id": 10,
+    "name": "Ahmed Miktoum",
+    "email": "ahmed.miktoum@example.com",
+    "age": 38,
+    "isMarried": false,
+    "nationality": "Egypt"
+  },
+  {
+    "id": 11,
+    "name": "Kemal Getzul",
+    "email": "kemal.getzul@example.com",
+    "age": 23,
+    "isMarried": false,
+    "nationality": "Turkiye"
+  },
+  {
+    "id": 12,
+    "name": "Sophie Baumann",
+    "email": "sophie.baumann@example.com",
+    "age": 43,
+    "isMarried": true,
+    "nationality": "Germany"
+  },
+  {
+    "id": 13,
+    "name": "Luc Pierre",
+    "email": "luc.pierrr@example.com",
+    "age": 57,
+    "isMarried": false,
+    "nationality": "Haiti"
+  },
+  {
+    "id": 14,
+    "name": "Brenda Henrique",
+    "email": "Brenda.henrique@example.com",
+    "age": 44,
+    "isMarried": true,
+    "nationality": "Panama"
+  },
+  {
+    "id": 15,
+    "name": "Fátima Rodríguez",
+    "email": "fatima.rodriguez@example.com",
+    "age": 31,
+    "isMarried": false,
+    "nationality": "Mexico"
+  },
+  {
+    "id": 16,
+    "name": "Yuki Tanaka",
+    "email": "yuki.tanaka@example.com",
+    "age": 29,
+    "isMarried": true,
+    "nationality": "Japan"
+  },
+  {
+    "id": 17,
+    "name": "Hans Müller",
+    "email": "hans.muller@example.com",
+    "age": 34,
+    "isMarried": false,
+    "nationality": "Germany"
+  },
+  {
+    "id": 18,
+    "name": "Isabella Rossi",
+    "email": "isabella.rossi@example.com",
+    "age": 26,
+    "isMarried": true,
+    "nationality": "Italy"
+  },
+  {
+    "id": 19,
+    "name": "Ravi Patel",
+    "email": "ravi.patel@example.com",
+    "age": 37,
+    "isMarried": false,
+    "nationality": "India"
+  },
+  {
+    "id": 20,
+    "name": "Elena Fernandez",
+    "email": "elena.fernandez@example.com",
+    "age": 28,
+    "isMarried": true,
+    "nationality": "Spain"
+  },
+  {
+    "id": 21,
+    "name": "Chen Wei",
+    "email": "chen.wei@example.com",
+    "age": 36,
+    "isMarried": false,
+    "nationality": "China"
+  },
+  {
+    "id": 22,
+    "name": "Marta Nowak",
+    "email": "marta.nowak@example.com",
+    "age": 32,
+    "isMarried": true,
+    "nationality": "Poland"
+  },
+  {
+    "id": 23,
+    "name": "David Brown",
+    "email": "david.brown@example.com",
+    "age": 39,
+    "isMarried": false,
+    "nationality": "United States"
+  },
+  {
+    "id": 24,
+    "name": "Kim Min-ji",
+    "email": "kim.minji@example.com",
+    "age": 30,
+    "isMarried": true,
+    "nationality": "South Korea"
+  },
+  {
+    "id": 25,
+    "name": "Muhammad Ali",
+    "email": "muhammad.ali@example.com",
+    "age": 27,
+    "isMarried": false,
+    "nationality": "Pakistan"
+  },
+  {
+    "id": 26,
+    "name": "Eva García",
+    "email": "eva.garcia@example.com",
+    "age": 34,
+    "isMarried": true,
+    "nationality": "Spain"
+  },
+  {
+    "id": 27,
+    "name": "Yusuke Sato",
+    "email": "yusuke.sato@example.com",
+    "age": 31,
+    "isMarried": false,
+    "nationality": "Japan"
+  },
+  {
+    "id": 28,
+    "name": "Lena Schmidt",
+    "email": "lena.schmidt@example.com",
+    "age": 35,
+    "isMarried": true,
+    "nationality": "Germany"
+  },
+  {
+    "id": 29,
+    "name": "Maria Silva",
+    "email": "maria.silva@example.com",
+    "age": 29,
+    "isMarried": false,
+    "nationality": "Portugal"
+  },
+  {
+    "id": 30,
+    "name": "Satoshi Yamamoto",
+    "email": "satoshi.yamamoto@example.com",
+    "age": 38,
+    "isMarried": true,
+    "nationality": "Japan"
+  },
+  {
+    "id": 31,
+    "name": "Emma Johnson",
+    "email": "emma.johnson@example.com",
+    "age": 33,
+    "isMarried": false,
+    "nationality": "United Kingdom"
+  },
+  {
+    "id": 32,
+    "name": "Mohammed Al-Mansoori",
+    "email": "mohammed.almansoori@example.com",
+    "age": 36,
+    "isMarried": true,
+    "nationality": "United Arab"
+  }
+]
